@@ -4,8 +4,9 @@ Step-by-step implementation and Big O analysis of core data structures in pure J
 
 ## Progress Roadmap
 - [x] **01. Big O Notation & Arrays** (`src/arrays/`)
-    - Fixed-size memory, $O(1)$ index access, $O(n)$ traversal & resizing
-    - Practice: `maxArray.java` (Finding maximum value in $O(n)$ time)
+  - Fixed-size memory, $O(1)$ index access, $O(n)$ traversal & resizing
+  - Practice: `maxArray.java` (Finding maximum value in $O(n)$ time)
+  - Practice: `DynamicArray.java` (`ArrayList` initialization, safe reverse-index removal in $O(n)$, linear search with `indexOf` in $O(n)$, and $O(1)$ element update/insertion)
 - [ ] **02. Linked Lists** (`src/linkedlists/`)
 - [ ] **03. Stacks** (`src/stacks/`)
 - [ ] **04. Queues** (`src/queues/`)
